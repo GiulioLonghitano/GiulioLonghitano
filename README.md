@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [my CV Website](https://github.com/GiulioLonghitano/Giulio-s-CV)<br>
+🔭 I’m currently working on my Projekt for IHK and later on [my CV Website](https://github.com/GiulioLonghitano/Giulio-s-CV)<br>
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning<br>
